@@ -33,7 +33,8 @@ done
 for file in "${fs_priv_apps[@]}"; do
     run_adb push "$fileset_dir/$file" "/system/priv-app/${file%.apk}/" ||
         run_adb push "$fileset_dir/$file" "/system/priv-app/" ||
-        run_adb push "$fileset_dir/$file" "/system/app/"
+        run_adb push "$fileset_dir/$file" "/system/app/" ||
+        run_adb push "$fileset_dir/$file" "/system_ext/priv-app/Settings/"
 done
 
 for file in "${fs_non_priv_apps[@]}"; do

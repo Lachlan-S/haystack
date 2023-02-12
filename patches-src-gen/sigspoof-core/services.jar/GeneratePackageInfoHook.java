@@ -25,7 +25,8 @@ package com.android.server.pm;
 import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
-import android.content.pm.PackageParser;
+//<11.0// import android.content.pm.PackageParser;
+/*>11.0*/ import com.android.server.pm.parsing.pkg.AndroidPackage;
 import android.content.pm.Signature;
 import android.util.Log;
 
@@ -41,7 +42,8 @@ class GeneratePackageInfoHook {
     }
 
     @DexAdd
-    private static boolean getPerAppEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    //<11.0// private static boolean getPerAppEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    /*>11.0*/ private static boolean getPerAppEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
         // MAYBE FIXME: at least Android 4.1 required (for requestedPermissionsFlags)
         if (pi.requestedPermissions==null || pi.requestedPermissionsFlags==null) {
             return false;
@@ -63,18 +65,22 @@ class GeneratePackageInfoHook {
     }
 
     @DexAdd
-    private static boolean getGlobalEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    //<11.0// private static boolean getGlobalEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    /*>11.0*/ private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
         return true;
     }
 
     @DexReplace
-    static PackageInfo hook(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    //<11.0// static PackageInfo hook(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    /*>11.0*/ static PackageInfo hook(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
         try {
             if ((flags & PackageManager.GET_SIGNATURES) != 0) {
                 if (getGlobalEnable(pi, context, p, flags, userId) &&
                         getPerAppEnable(pi, context, p, flags, userId)) {
-                    if (p.mAppMetaData != null) {
-                        Object fakeSignatureData = p.mAppMetaData.get(FakeSignatureCore.METADATA);
+                    //<11.0// if (p.mAppMetaData != null) {
+                    /*>11.0*/ if (p.getMetaData() != null) {
+                        //<11.0// Object fakeSignatureData = p.mAppMetaData.get(FakeSignatureCore.METADATA);
+                        /*>11.0*/ Object fakeSignatureData = p.getMetaData().get(FakeSignatureCore.METADATA);
                         if (fakeSignatureData != null) {
                             if (fakeSignatureData instanceof String) {
                                 pi.signatures = new Signature[] { new Signature((String) fakeSignatureData) };

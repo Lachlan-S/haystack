@@ -23,9 +23,11 @@ run_adb pull "/system/framework/framework2.jar" "$fileset_dir/" || true
 # TODO: Support the two versions of core jars that KK devices have.
 
 run_adb pull "/system/framework/core.jar" "$fileset_dir/" ||
-    run_adb pull "/system/framework/core-libart.jar" "$fileset_dir/"
+    run_adb pull "/system/framework/core-libart.jar" "$fileset_dir/" ||
+    run_adb pull "/apex/com.android.art/javalib/core-libart.jar" "$fileset_dir"
 
-run_adb pull "/system/framework/core-oj.jar" "$fileset_dir/" || true
+run_adb pull "/system/framework/core-oj.jar" "$fileset_dir/" ||
+    run_adb pull "/apex/com.android.art/javalib/core-oj.jar" "$fileset_dir" || true
 
 for file in "${fs_framework_jars[@]}"; do
     run_adb pull "/system/framework/$file" "$fileset_dir/"
@@ -34,7 +36,8 @@ done
 for file in "${fs_priv_apps[@]}"; do
     run_adb pull "/system/priv-app/${file%.apk}/$file" "$fileset_dir/" ||
         run_adb pull "/system/priv-app/$file" "$fileset_dir/" ||
-        run_adb pull "/system/app/$file" "$fileset_dir/"
+        run_adb pull "/system/app/$file" "$fileset_dir/" ||
+        run_adb pull "/system_ext/priv-app/Settings/$file" "$fileset_dir/"
 done
 
 for file in "${fs_non_priv_apps[@]}"; do

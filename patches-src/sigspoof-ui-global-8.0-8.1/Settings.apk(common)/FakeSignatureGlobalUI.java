@@ -27,12 +27,15 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 //<7.0// import android.preference.PreferenceFragment;
-/*>7.0*/ import android.support.v14.preference.PreferenceFragment;
+/*>7.0*/ /*<11.0*/ import android.support.v14.preference.PreferenceFragment;
+//>11.0// import androidx.preference.PreferenceFragmentCompat;
 //<7.0// import android.preference.PreferenceGroup;
-/*>7.0*/ import android.support.v7.preference.PreferenceGroup;
+/*>7.0*/ /*<11.0*/ import android.support.v7.preference.PreferenceGroup;
+//>11.0// import androidx.preference.PreferenceGroup;
 //<5.1// import android.preference.CheckBoxPreference;
 /*>5.1*/ //<7.0// import android.preference.SwitchPreference;
-/*>7.0*/ import android.support.v14.preference.SwitchPreference;
+/*>7.0*/ /*<11.0*/ import android.support.v14.preference.SwitchPreference;
+//>11.0// import androidx.preference.SwitchPreference;
 import android.util.Log;
 
 abstract class FakeSignatureGlobalUI {
@@ -60,7 +63,8 @@ abstract class FakeSignatureGlobalUI {
     //>9.0// }
 
     //<5.1// static CheckBoxPreference addPreference(PreferenceFragment fragment) {
-    /*>5.1*/ static SwitchPreference addPreference(PreferenceFragment fragment) {
+    /*>5.1*/ /*<11.0*/ static SwitchPreference addPreference(PreferenceFragment fragment) {
+    //>11.0// static SwitchPreference addPreference(PreferenceFragmentCompat fragment) {
         PreferenceGroup pg = (PreferenceGroup) fragment.findPreference(PREFERENCE_CATEGORY_KEY);
         if (pg != null) {
             //<5.1// CheckBoxPreference p = new CheckBoxPreference(pg.getContext());

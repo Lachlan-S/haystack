@@ -23,8 +23,10 @@
 package com.android.settings.development;
 
 import android.app.Dialog;
-import android.app.Fragment;
-import android.app.FragmentManager;
+/*<11.0*/ import android.app.Fragment;
+//>11.0// import androidx.fragment.app.Fragment;
+/*<11.0*/ import android.app.FragmentManager;
+//>11.0// import androidx.fragment.app.FragmentManager;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
@@ -36,7 +38,8 @@ public class FakeSignatureGlobalWarningDialog extends ObservableDialogFragment
     private static final String TAG = "FakeSignatureGlobalWarningDialog";
 
     static void show(Fragment fragment) {
-        FragmentManager manager = fragment.getActivity().getFragmentManager();
+        /*<11.0*/ FragmentManager manager = fragment.getActivity().getFragmentManager();
+        //>11.0// FragmentManager manager = fragment.getActivity().getSupportFragmentManager();
         if (manager.findFragmentByTag(TAG) == null) {
             FakeSignatureGlobalWarningDialog dialog = new FakeSignatureGlobalWarningDialog();
             dialog.setTargetFragment(fragment, /* requestCode: */ 0);

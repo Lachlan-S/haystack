@@ -24,7 +24,8 @@ package com.android.server.pm;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
-import android.content.pm.PackageParser;
+//<11.0// import android.content.pm.PackageParser;
+/*>11.0*/ import com.android.server.pm.parsing.pkg.AndroidPackage;
 import android.provider.Settings;
 
 import lanchon.dexpatcher.annotation.*;
@@ -36,7 +37,8 @@ class GeneratePackageInfoHook {
     private static final String SECURE_SETTING_KEY = "allow_fake_signature_global";
 
     @DexReplace
-    private static boolean getGlobalEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    //<11.0// private static boolean getGlobalEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
+    /*>11.0*/ private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
         return Settings.Secure.getInt(context.getContentResolver(), SECURE_SETTING_KEY, 0) != 0;
     }
 
