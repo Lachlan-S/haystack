@@ -38,7 +38,8 @@ class GeneratePackageInfoHook {
 
     @DexReplace
     //<11.0// private static boolean getGlobalEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
-    /*>11.0*/ private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    /*>11.0*/ //<13.0// private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    /*>13.0*/ private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, long flags, int userId) {
         return Settings.Secure.getInt(context.getContentResolver(), SECURE_SETTING_KEY, 0) != 0;
     }
 

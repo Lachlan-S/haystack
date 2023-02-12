@@ -43,7 +43,8 @@ class GeneratePackageInfoHook {
 
     @DexAdd
     /*<11.0*/ private static boolean getPerAppEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
-    //>11.0// private static boolean getPerAppEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    //>11.0// /*<13.0*/ private static boolean getPerAppEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    //>13.0// private static boolean getPerAppEnable(PackageInfo pi, Context context, AndroidPackage p, long flags, int userId) {
         // MAYBE FIXME: at least Android 4.1 required (for requestedPermissionsFlags)
         if (pi.requestedPermissions==null || pi.requestedPermissionsFlags==null) {
             return false;
@@ -66,13 +67,15 @@ class GeneratePackageInfoHook {
 
     @DexAdd
     /*<11.0*/ private static boolean getGlobalEnable(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
-    //>11.0// private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    //>11.0// /*<13.0*/ private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    //>13.0// private static boolean getGlobalEnable(PackageInfo pi, Context context, AndroidPackage p, long flags, int userId) {
         return true;
     }
 
     @DexReplace
     /*<11.0*/ static PackageInfo hook(PackageInfo pi, Context context, PackageParser.Package p, int flags, int userId) {
-    //>11.0// static PackageInfo hook(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    //>11.0// /*<13.0*/ static PackageInfo hook(PackageInfo pi, Context context, AndroidPackage p, int flags, int userId) {
+    //>13.0// static PackageInfo hook(PackageInfo pi, Context context, AndroidPackage p, long flags, int userId) {
         try {
             if ((flags & PackageManager.GET_SIGNATURES) != 0) {
                 if (getGlobalEnable(pi, context, p, flags, userId) &&
