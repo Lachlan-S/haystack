@@ -35,15 +35,20 @@ import android.content.pm.PackageManager;
 
 import lanchon.dexpatcher.annotation.*;
 
-@DexEdit(contentOnly = true)
+/*<12.0*/ @DexEdit(contentOnly = true)
+//>12.0// @DexIgnore
 public class PackageManagerService /* extends IPackageManager.Stub */ {
+
+    //>12.0// @DexEdit(contentOnly = true)
+    //>12.0// protected static class ComputerEngine {
 
     @DexIgnore /* final */ Context mContext;
 
     @DexWrap
     //<4.1// PackageInfo generatePackageInfo(PackageParser.Package p, int flags) {
     /*>4.1*/ //<7.0// PackageInfo generatePackageInfo(PackageParser.Package p, int flags, int userId) {
-    /*>7.0*/ private PackageInfo generatePackageInfo(PackageSetting p, int flags, int userId) {
+    /*>7.0*/ /*<12.0*/ private PackageInfo generatePackageInfo(PackageSetting p, int flags, int userId) {
+    //>12.0// public final PackageInfo generatePackageInfo(PackageSetting p, int flags, int userId) {
         //<4.1// PackageInfo pi = generatePackageInfo(p, flags);
         /*>4.1*/ PackageInfo pi = generatePackageInfo(p, flags | PackageManager.GET_PERMISSIONS, userId);
         if (p != null && pi != null) {
@@ -60,5 +65,5 @@ public class PackageManagerService /* extends IPackageManager.Stub */ {
         }
         return pi;
     }
-
 }
+//>12.0// }
