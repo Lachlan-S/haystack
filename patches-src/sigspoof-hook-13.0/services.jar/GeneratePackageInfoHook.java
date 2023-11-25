@@ -25,7 +25,8 @@ package com.android.server.pm;
 import android.content.Context;
 import android.content.pm.PackageInfo;
 //<11.0// import android.content.pm.PackageParser;
-/*>11.0*/ import com.android.server.pm.parsing.pkg.AndroidPackage;
+/*>11.0*/ /*<14.0*/ import com.android.server.pm.parsing.pkg.AndroidPackage;
+//>14.0// import com.android.server.pm.pkg.AndroidPackage;
 
 import lanchon.dexpatcher.annotation.*;
 

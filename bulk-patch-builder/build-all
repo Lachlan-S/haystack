@@ -124,6 +124,7 @@ build_all() {
     # Android versions and API levels
 
     #    API   Version    Codename
+    #    34    14.0       UpsideDownCake
     #    33    13.0       Tiramisu
     #    32    12.1       S
     #    31    12.0       S
@@ -181,6 +182,9 @@ build_all() {
 
         build_one           sigspoof-hook-13.0 "$filesets_dir"/33*
                   apply_one sigspoof-hook-13.0 "$filesets_dir"/33*
+
+        build_one           sigspoof-hook-14.0 "$filesets_dir"/34*
+                  apply_one sigspoof-hook-14.0 "$filesets_dir"/34*
     else
         #build_and_apply_one sigspoof-hook-1.5-2.3 "$filesets_dir"/{0[3-9],10}-*
         #build_and_apply_one sigspoof-hook-4.0     "$filesets_dir"/1[4-5]-*
@@ -189,7 +193,9 @@ build_all() {
 
         build_and_apply_one sigspoof-hook-11.0 "$filesets_dir"/30*
         build_and_apply_one sigspoof-hook-12.0-12.1 "$filesets_dir"/31*
+
         build_and_apply_one sigspoof-hook-13.0 "$filesets_dir"/33*
+        build_and_apply_one sigspoof-hook-14.0 "$filesets_dir"/34*
     fi
 
     # Build the core patch
@@ -199,6 +205,7 @@ build_all() {
         apply_one           sigspoof-core-4.0-10.0 "$tmp_dir"/sigspoof-hook-{4.1-6.0,7.0-9.0}__fs/*
         apply_one           sigspoof-core-11.0-12.1 "$tmp_dir"/sigspoof-hook-{11.0,12.0-12.1}__fs/*
         apply_one           sigspoof-core-13.0 "$tmp_dir"/sigspoof-hook-13.0__fs/*
+        apply_one           sigspoof-core-14.0 "$tmp_dir"/sigspoof-hook-14.0__fs/*
     else
         # Avoid building the core patch on Android 9.0 (Workaround for https://github.com/Lanchon/haystack/issues/23)
         #build_and_apply_one sigspoof-core "$tmp_dir"/sigspoof-hook-{1.5-2.3,4.0,4.1-6.0,7.0-9.0}__fs/*
@@ -210,6 +217,9 @@ build_all() {
 
         build_one           sigspoof-core-13.0 "$tmp_dir"/sigspoof-hook-13.0__fs/*
                   apply_one sigspoof-core-13.0 "$tmp_dir"/sigspoof-hook-13.0__fs/*
+
+        build_one           sigspoof-core-14.0 "$tmp_dir"/sigspoof-hook-14.0__fs/*
+                  apply_one sigspoof-core-14.0 "$tmp_dir"/sigspoof-hook-14.0__fs/*
     fi
 
     # Build the UI patches
@@ -225,6 +235,7 @@ build_all() {
     # TODO Figure out and fix issues with dedexing android 11s Settings.apk
     build_one sigspoof-ui-global-11.0-12.1 "$tmp_dir"/sigspoof-core-11.0-12.1__fs/3[1-2]-*
     build_one sigspoof-ui-global-13.0      "$tmp_dir"/sigspoof-core-13.0__fs/33-*
+    build_one sigspoof-ui-global-14.0      "$tmp_dir"/sigspoof-core-14.0__fs/34-*
 
     rm -rf "$tmp_dir"
 }

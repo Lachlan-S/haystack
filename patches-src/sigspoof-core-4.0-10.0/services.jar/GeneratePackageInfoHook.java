@@ -26,7 +26,8 @@ import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 /*<11.0*/ import android.content.pm.PackageParser;
-//>11.0// import com.android.server.pm.parsing.pkg.AndroidPackage;
+//>11.0// /*<14.0*/ import com.android.server.pm.parsing.pkg.AndroidPackage;
+//>14.0// import com.android.server.pm.pkg.AndroidPackage;
 import android.content.pm.Signature;
 import android.util.Log;
 

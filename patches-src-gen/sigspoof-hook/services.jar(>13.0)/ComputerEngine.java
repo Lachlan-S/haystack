@@ -24,7 +24,8 @@ package com.android.server.pm;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
-import com.android.server.pm.parsing.pkg.AndroidPackage;
+//<14.0// import com.android.server.pm.parsing.pkg.AndroidPackage;
+/*>14.0*/ import com.android.server.pm.pkg.AndroidPackage;
 import android.content.pm.PackageManager;
 
 import com.android.server.pm.pkg.PackageStateInternal;

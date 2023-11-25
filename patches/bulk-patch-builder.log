@@ -11,8 +11,8 @@
 >>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/core.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/core.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/ext.jar.dedex.jar
-dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/framework2.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/framework2.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/services.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/16-4.1.2-cm-10.0.0-maguro/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__16-4.1.2-cm-10.0.0-maguro/tmp/dedex/Settings.apk.dedex.jar
 >>> build patch: services.jar
@@ -102,8 +102,8 @@ info: dry run due to '--dry-run' option
 >>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/core.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/core.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/ext.jar.dedex.jar
-dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/framework2.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/framework2.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/services.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0/sigspoof-hook-4.1-6.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead/tmp/dedex/Settings.apk.dedex.jar
 >>> build patch: services.jar
@@ -2253,8 +2253,8 @@ info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/s
 >>> repack: services.jar
 deleting: classes.dex
 deleting: classes2.dex
-  adding: classes.dex (stored 0%)
   adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
 
 *** patch-fileset: success
 
@@ -2315,8 +2315,8 @@ info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/s
 >>> repack: services.jar
 deleting: classes.dex
 deleting: classes2.dex
-  adding: classes.dex (stored 0%)
   adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
 
 *** patch-fileset: success
 
@@ -2472,8 +2472,69 @@ info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/s
 >>> repack: services.jar
 deleting: classes.dex
 deleting: classes2.dex
-  adding: classes.dex (stored 0%)
   adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
+
+*** patch-fileset: success
+
+
+********* BUILD: sigspoof-hook-14.0
+
+****** build: sigspoof-hook-14.0
+****** against: 34-14.0-aosp-AVD
+
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD
+>>> dedex fileset
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/core-libart.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex/core-libart.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/core-oj.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex/core-oj.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex/ext.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex/framework.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex/services.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/tmp/dedex/Settings.apk.dedex.jar
+>>> build patch: services.jar
+warning: [options] source value 6 is obsolete and will be removed in a future release
+warning: [options] target value 1.6 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+3 warnings
+
+*** apply fileset patch (dry-run)
+>>> apply patch: services.jar
+>>> dexpatcher --api-level 34 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/services.jar.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/services.jar'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0/sigspoof-hook-14.0__34-14.0-aosp-AVD/services.jar.dex'
+info: type 'com.android.server.pm.ComputerEngine': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+
+*** patch-fileset: success
+*** build-patch: success
+
+********* PUBLISH: sigspoof-hook-14.0
+********* BUILT AGAINST: 34-14.0-aosp-AVD
+
+
+********* APPLY: sigspoof-hook-14.0
+
+****** apply: sigspoof-hook-14.0
+****** to: 34-14.0-aosp-AVD
+
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0
+>>> apply patch: services.jar
+>>> dexpatcher --api-level 34 --verbose --output /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/services.jar/patched-dex --multi-dex /home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/sigspoof-hook-14.0/services.jar.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/filesets/34-14.0-aosp-AVD/services.jar'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/sigspoof-hook-14.0/services.jar.dex'
+info: type 'com.android.server.pm.ComputerEngine': method '<init>():void': implicit ignore of trivial default constructor
+info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/services.jar/patched-dex'
+0 error(s), 0 warning(s)
+>>> repack: services.jar
+deleting: classes.dex
+deleting: classes2.dex
+deleting: classes3.dex
+  adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
 
 *** patch-fileset: success
 
@@ -2488,8 +2549,8 @@ deleting: classes2.dex
 >>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/core.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/core.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/ext.jar.dedex.jar
-dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/framework2.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/framework2.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/services.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0/tmp/dedex/Settings.apk.dedex.jar
 >>> build patch: services.jar
@@ -2579,8 +2640,8 @@ info: dry run due to '--dry-run' option
 >>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/core.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/core.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/ext.jar.dedex.jar
-dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/framework2.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/framework2.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/services.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-4.1-6.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0/sigspoof-core-4.0-10.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0/tmp/dedex/Settings.apk.dedex.jar
 >>> build patch: services.jar
@@ -4723,10 +4784,10 @@ info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():voi
 info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/30-11.0-lineage-18.1-20230112-nightly-marlin__sigspoof-hook-11.0__sigspoof-core-11.0-12.1/tmp/services.jar/patched-dex'
 0 error(s), 0 warning(s)
 >>> repack: services.jar
-deleting: classes.dex
 deleting: classes2.dex
-  adding: classes.dex (stored 0%)
+deleting: classes.dex
   adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
 
 *** patch-fileset: success
 
@@ -4743,10 +4804,10 @@ info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():voi
 info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/tmp/services.jar/patched-dex'
 0 error(s), 0 warning(s)
 >>> repack: services.jar
-deleting: classes.dex
 deleting: classes2.dex
-  adding: classes.dex (stored 0%)
+deleting: classes.dex
   adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
 
 *** patch-fileset: success
 
@@ -4902,10 +4963,72 @@ info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():voi
 info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-13.0__fs/33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/tmp/services.jar/patched-dex'
 0 error(s), 0 warning(s)
 >>> repack: services.jar
-deleting: classes.dex
 deleting: classes2.dex
-  adding: classes.dex (stored 0%)
+deleting: classes.dex
   adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
+
+*** patch-fileset: success
+
+
+********* BUILD: sigspoof-core-14.0
+
+****** build: sigspoof-core-14.0
+****** against: 34-14.0-aosp-AVD__sigspoof-hook-14.0
+
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0
+>>> dedex fileset
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/core-libart.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex/core-libart.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/core-oj.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex/core-oj.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex/ext.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex/framework.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex/services.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/tmp/dedex/Settings.apk.dedex.jar
+>>> build patch: services.jar
+warning: [options] source value 6 is obsolete and will be removed in a future release
+warning: [options] target value 1.6 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+Note: /home/teo/Software/haystack/bulk-patch-builder/../patches-src/sigspoof-core-14.0/services.jar/GeneratePackageInfoHook.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+3 warnings
+
+*** apply fileset patch (dry-run)
+>>> apply patch: services.jar
+>>> dexpatcher --api-level 34 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0/sigspoof-core-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar.dex'
+info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+
+*** patch-fileset: success
+*** build-patch: success
+
+********* PUBLISH: sigspoof-core-14.0
+********* BUILT AGAINST: 34-14.0-aosp-AVD__sigspoof-hook-14.0
+
+
+********* APPLY: sigspoof-core-14.0
+
+****** apply: sigspoof-core-14.0
+****** to: 34-14.0-aosp-AVD__sigspoof-hook-14.0
+
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0
+>>> apply patch: services.jar
+>>> dexpatcher --api-level 34 --verbose --output /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/services.jar/patched-dex --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/sigspoof-core-14.0/services.jar.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-hook-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0/services.jar'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/sigspoof-core-14.0/services.jar.dex'
+info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: write '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/services.jar/patched-dex'
+0 error(s), 0 warning(s)
+>>> repack: services.jar
+deleting: classes2.dex
+deleting: classes.dex
+  adding: classes2.dex (stored 0%)
+  adding: classes.dex (stored 0%)
 
 *** patch-fileset: success
 
@@ -4920,8 +5043,8 @@ deleting: classes2.dex
 >>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/core.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/core.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/ext.jar.dedex.jar
-dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/framework2.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/framework2.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/services.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/Settings.apk.dedex.jar
 >>> build patch: services.jar
@@ -4936,19 +5059,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 16 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 16 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 16 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.1/sigspoof-ui-global-4.1__16-4.1.2-cm-10.0.0-maguro__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -4984,19 +5107,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 17 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 17 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 17 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__17-4.2.2-cm-10.1.3-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -5026,19 +5149,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 18 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 18 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 18 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__18-4.3.1-cm-10.2.1-mako__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -5053,8 +5176,8 @@ info: dry run due to '--dry-run' option
 >>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/core.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/core.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/ext.jar.dedex.jar
-dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/framework2.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/framework2.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/framework.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/services.jar.dedex.jar
 dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/tmp/dedex/Settings.apk.dedex.jar
 >>> build patch: services.jar
@@ -5069,19 +5192,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 19 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 19 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 19 --verbose --dry-run /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__19-4.4.4-cm-11-20150901-SNAPSHOT-XNG3CAO3G0-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -5111,19 +5234,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 21 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 21 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 21 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-4.2-5.0/sigspoof-ui-global-4.2-5.0__21-5.0.2-cm-12-20150625-SNAPSHOT-YNG4NAO09M-d801__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -5159,19 +5282,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 22 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 22 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 22 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__22-5.1.1-cm-12.1-20150901-SNAPSHOT-YOG4PAO237-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -5201,19 +5324,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 23 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 23 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 23 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-5.1-6.0/sigspoof-ui-global-5.1-6.0__23-6.0.1-cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J2-hammerhead__sigspoof-hook-4.1-6.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -5981,19 +6104,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 24 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 24 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 24 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__24-7.0-cm-14.0-20161011-UNOFFICIAL-hammerheadcaf-nyyu_tk__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -6874,19 +6997,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 25 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 25 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 25 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-7.0-7.1/sigspoof-ui-global-7.0-7.1__25-7.1-lineage-14.1-20170721-nightly-oneplus3-signed__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -6923,19 +7046,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 26 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 26 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 26 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__26-8.0-lineage-15.0-20170915-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -6966,19 +7089,19 @@ warning: [options] To suppress warnings about obsolete options, use -Xlint:-opti
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 27 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 27 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 27 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-8.0-8.1/sigspoof-ui-global-8.0-8.1__27-8.1-lineage-15.1-20180109-UNOFFICIAL-falcon-carlosarriaga__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -7017,19 +7140,19 @@ Note: Recompile with -Xlint:deprecation for details.
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 28 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-9.0/sigspoof-ui-global-9.0__28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-9.0/sigspoof-ui-global-9.0__28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 28 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-9.0/sigspoof-ui-global-9.0__28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-9.0/sigspoof-ui-global-9.0__28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 28 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-9.0/sigspoof-ui-global-9.0__28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-4.0-10.0__fs/28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-9.0/sigspoof-ui-global-9.0__28-9.0-lineage-16.0-20181208-UNOFFICIAL-falcon-allstargaurav__sigspoof-hook-7.0-9.0__sigspoof-core-4.0-10.0/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -7068,19 +7191,19 @@ Note: Recompile with -Xlint:deprecation for details.
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 31 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-11.0-12.1/sigspoof-ui-global-11.0-12.1__31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-11.0-12.1/sigspoof-ui-global-11.0-12.1__31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 31 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-11.0-12.1/sigspoof-ui-global-11.0-12.1__31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/services.jar'
 info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-11.0-12.1/sigspoof-ui-global-11.0-12.1__31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/services.jar.dex'
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 31 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-11.0-12.1/sigspoof-ui-global-11.0-12.1__31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-11.0-12.1__fs/31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-11.0-12.1/sigspoof-ui-global-11.0-12.1__31-12.0-aosp-AVD__sigspoof-hook-12.0-12.1__sigspoof-core-11.0-12.1/Settings.apk.dex'
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
 
@@ -7216,13 +7339,6 @@ Note: Recompile with -Xlint:deprecation for details.
 3 warnings
 
 *** apply fileset patch (dry-run)
->>> apply patch: Settings.apk
->>> dexpatcher --api-level 33 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-13.0__fs/33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-13.0/sigspoof-ui-global-13.0__33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk.dex
-DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-13.0__fs/33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk'
-info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-13.0/sigspoof-ui-global-13.0__33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk.dex'
-info: dry run due to '--dry-run' option
-0 error(s), 0 warning(s)
 >>> apply patch: services.jar
 >>> dexpatcher --api-level 33 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-13.0__fs/33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-13.0/sigspoof-ui-global-13.0__33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/services.jar.dex
 DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
@@ -7231,11 +7347,69 @@ info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/si
 info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
 info: dry run due to '--dry-run' option
 0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 33 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-13.0__fs/33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-13.0/sigspoof-ui-global-13.0__33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-13.0__fs/33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-13.0/sigspoof-ui-global-13.0__33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0/Settings.apk.dex'
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
 
 *** patch-fileset: success
 *** build-patch: success
 
 ********* PUBLISH: sigspoof-ui-global-13.0
 ********* BUILT AGAINST: 33-13.0-lineage-20.0-lineage-sdk-phone-x86_64__sigspoof-hook-13.0__sigspoof-core-13.0
+
+
+********* BUILD: sigspoof-ui-global-14.0
+
+****** build: sigspoof-ui-global-14.0
+****** against: 34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0
+
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0
+>>> dedex fileset
+>>> target directory: /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/core-libart.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex/core-libart.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/core-oj.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex/core-oj.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/ext.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex/ext.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/framework.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex/framework.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/services.jar -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex/services.jar.dedex.jar
+dex2jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/Settings.apk -> /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/tmp/dedex/Settings.apk.dedex.jar
+>>> build patch: services.jar
+warning: [options] source value 6 is obsolete and will be removed in a future release
+warning: [options] target value 1.6 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+3 warnings
+>>> build patch: Settings.apk
+warning: [options] source value 6 is obsolete and will be removed in a future release
+warning: [options] target value 1.6 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+3 warnings
+
+*** apply fileset patch (dry-run)
+>>> apply patch: services.jar
+>>> dexpatcher --api-level 34 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/services.jar /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/services.jar.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/services.jar'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/services.jar.dex'
+info: type 'com.android.server.pm.GeneratePackageInfoHook': method '<init>():void': implicit ignore of trivial default constructor
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+>>> apply patch: Settings.apk
+>>> dexpatcher --api-level 34 --verbose --dry-run --multi-dex /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/Settings.apk /home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/Settings.apk.dex
+DexPatcher version 1.6.2 by Lanchon (https://dexpatcher.github.io/)
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-core-14.0__fs/34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/Settings.apk'
+info: read '/home/teo/Software/haystack/bulk-patch-builder/../patches/tmp-dir/sigspoof-ui-global-14.0/sigspoof-ui-global-14.0__34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0/Settings.apk.dex'
+info: dry run due to '--dry-run' option
+0 error(s), 0 warning(s)
+
+*** patch-fileset: success
+*** build-patch: success
+
+********* PUBLISH: sigspoof-ui-global-14.0
+********* BUILT AGAINST: 34-14.0-aosp-AVD__sigspoof-hook-14.0__sigspoof-core-14.0
 
 
